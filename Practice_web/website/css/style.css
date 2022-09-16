@@ -1,0 +1,292 @@
+body{
+    margin:0;
+    text-align: center;
+    top: 200px;
+    font-family: 'Merriweather', serif;
+    color:#40514E;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+a{
+    font-family: 'Montserrat' , sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 1em;
+    padding: 20px 10px;
+}
+
+h1{
+    font-size: 90px;
+    margin-top: 0px;
+    margin:0 auto;
+    font-family:'Sacramento' , cursive;
+    color: #11999E;
+    line-height: 2;
+    
+}
+
+h2{
+    font-family: 'Montserrat' , sans-serif;
+    font-size: 2.5rem;
+    margin: auto 0 auto;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat' , sans-serif;
+    color: #66BFBF;
+}
+
+.Hobbys{
+    width: 200px;
+    float: right;
+    margin-bottom: 10%;
+    margin-right: 40px;
+}
+
+.Hobby{
+    width: 200px;
+    float: left;
+    margin-bottom: 10%;
+    margin-right: 40px;
+
+}
+p{
+    line-height: 2;
+}
+
+hr{
+    border: none;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-part{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 400px;
+    top: 40px;    
+}
+
+.profileimg{
+    width: 300px;
+    height: 300px;
+}
+
+.footer-link{
+    color: #11999E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+.Programming{
+    width:25%;
+    float: left;
+    margin-right: 40px;
+}
+
+.DS{
+    width:25%;
+    float:right;
+    margin-left: 40px;
+}
+
+.kvlogo{
+    width: 200px;
+    float: left;
+    margin-bottom: 10%;
+    margin-right: 40px;
+    
+}
+
+.srmlogo{
+    width: 200px;
+    float: right;
+    margin-bottom: 10%;
+    margin-left: 100px;
+}
+
+.school{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+
+}
+
+.music{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+.vgame{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+.cricket{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+
+.college{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+.info1{
+    width: 40%;
+    margin:auto 0 auto 70px;
+    text-align: center;
+}
+
+.info2{
+    width: 40%;
+    margin:auto 0 auto 300px;
+    text-align: center;
+}
+
+.srminfo{
+    margin: 60px;;
+}
+
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.intro{
+    width:30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.contact{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat' , sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+
+  .info1 {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat' , sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .info1:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .info2 {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat' , sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .info2:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
